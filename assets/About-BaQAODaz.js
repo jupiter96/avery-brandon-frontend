@@ -1,0 +1,1 @@
+import{ah as t}from"./index-DPRm9m9z.js";import{D as a,aZ as e}from"./IdurarOs-CrOj2IRU.js";const u=()=>{const s=a();return t.jsx(e,{status:"success",title:"Carlos",subTitle:s("Management App"),extra:t.jsx(t.Fragment,{})})};export{u as default};
